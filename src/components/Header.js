@@ -6,8 +6,6 @@ function Header() {
 
     const {data} = useDataContext();
 
-    console.log('data', data);
-
     return (
         <nav>
             <ul className="Header-list">

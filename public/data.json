@@ -16,5 +16,67 @@
             "url": "/Contacts",
             "text": "Contacts"
         }
+    ],
+    "about": {
+        "name": "Gonçalo Antunes",
+        "title": "IT Business Analyst | .NET Fullstack Developer",
+        "grade": "Master in Mechanical Engineering",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "image": "me.jpg"
+    },
+    "history": [
+        {
+            "key": "3",
+            "title": "IT Analyst | Fullstack Developer",
+            "company": "Sonae Arauco",
+            "location": "Maia, Portugal",
+            "from": "August 2022",
+            "to": "Today",
+            "status": "InProgress",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+            "key": "2",
+            "title": "PhD Research Scholar",
+            "company": "Universidade de Aveiro",
+            "location": "Aveiro, Portugal",
+            "from": "January 2022",
+            "to": "August 2022",
+            "status": "Incompleted",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+            "key": "1",
+            "title": "Integrated Master's Degree",
+            "company": "Universidade de Aveiro",
+            "location": "Aveiro, Portugal",
+            "from": "September 2016",
+            "to": "December 2021",
+            "status": "Completed",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        }
+    ],
+    "contacts": [
+        {
+            "key": "email",
+            "name": "Email",
+            "value": "goncalompa@gmail.com",
+            "icon": "gmail.png",
+            "link": "mailto:goncalompa@gmail.com"
+        },
+        {
+            "key": "github",
+            "name": "GitHub",
+            "value": "goncalompa",
+            "icon": "github.png",
+            "link": "https://github.com/goncalompa"
+        },
+        {
+            "key": "linkedin",
+            "name": "LinkedIn",
+            "value": "goncalompa1998",
+            "icon": "linkedin.png",
+            "link": "https://www.linkedin.com/in/goncalompa1998"
+        }
     ]
 }
