@@ -13,10 +13,10 @@ function App() {
       <Data>
         <Header/>
           <Routes>
-            <Route path="/" element={<Home/>} />
-            <Route path="/About" element={<About/>} />
-            <Route path="/History" element={<History/>} />
-            <Route path="/Contacts" element={<Contacts/>} />
+            <Route path={process.env.PUBLIC_URL + "/"} element={<Home/>} />
+            <Route path={process.env.PUBLIC_URL + "/About"} element={<About/>} />
+            <Route path={process.env.PUBLIC_URL + "/History"} element={<History/>} />
+            <Route path={process.env.PUBLIC_URL + "/Contacts"} element={<Contacts/>} />
           </Routes>
       </Data>
     </div>

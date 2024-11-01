@@ -8,7 +8,7 @@ function Data ({children}) {
 
     async function loadData() {
         console.log('Loading data...');
-        const response = await fetch("data.json");
+        const response = await fetch(process.env.PUBLIC_URL + "/data.json");
         const data = await response.json();
         setData(data);
         console.log(data);

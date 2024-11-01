@@ -28,7 +28,7 @@ function About() {
           </div>
           <div>
             <div style={{width:"150px",height:"150px"}}>
-              <img src={data.about.image} alt={data.about.image} style={{width:"100%",height:"100%"}}></img>
+              <img src={process.env.PUBLIC_URL + "/" + data.about.image} alt={data.about.image} style={{width:"100%",height:"100%"}}></img>
             </div>
           </div>
         </div>

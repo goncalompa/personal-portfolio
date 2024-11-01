@@ -9,7 +9,7 @@ function Header() {
     return (
         <nav>
             <ul className="Header-list">
-                {data['navItems'].map(i => <li key={i.url} className="Header-item"><Link to={i.url}>{i.text}</Link></li>)}
+                {data['navItems'].map(i => <li key={i.url} className="Header-item"><Link to={process.env.PUBLIC_URL + i.url}>{i.text}</Link></li>)}
             </ul>
         </nav>
     );

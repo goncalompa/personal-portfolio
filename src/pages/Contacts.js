@@ -41,7 +41,7 @@ function Contacts() {
                     <li style={styleLi} key={c.key}>
                         <div style={{display:"flex",flexDirection:"row",alignItems:"center",gap:"10px"}}>
                             <img src={c.icon} alt={c.name} style={{width:"40px",height:"40px"}}></img>
-                            <span><a href={c.link} target="_blank" rel="noreferrer">{c.value}</a></span>
+                            <span><a href={"%PUBLIC_URL%/" + c.link} target="_blank" rel="noreferrer">{c.value}</a></span>
                         </div>
                     </li>
                 )}
