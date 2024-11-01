@@ -21,29 +21,39 @@
         "name": "Gonçalo Antunes",
         "title": "IT Business Analyst | .NET Fullstack Developer",
         "grade": "Master in Mechanical Engineering",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "description": "Hello there! I have been actively working with .NET, C#, JavaScript, HTML, CSS for the last 2 years at my current job as a Business Analyst/Full-stack Developer. Although my university background is Mechanical Engineering, since my Master's thesis I have been always working in programming, whether it was for data engineering and data analysis or for web application full-stack development. I started programming in Java when I took an extra curricular course on OOP at the university, which provided me with a great programming foundation. Then I learned Python, which I used extensively during my 5th year of studies, this includes specialisation courses as well as my Masters thesis. At my current job I also work with Azure where most of our services run from: databases, web applications, and so on. I have also gained experience in DevOps with Azure DevOps, configuring build and release pipelines for CI/CD as well as the use of boards to keep track of the work being done. I have also run some personal experiments with AWS and GCP in personal projects. I am always interested in learning new things and motivated to deliver the best work possible aligned with the provided requirements.",
         "image": "me.jpg"
     },
     "history": [
         {
-            "key": "3",
+            "key": "4",
             "title": "IT Analyst | Fullstack Developer",
             "company": "Sonae Arauco",
             "location": "Maia, Portugal",
             "from": "August 2022",
             "to": "Today",
             "status": "InProgress",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+            "description": "Gonçalo is currently working at Sonae Arauco, a company devoted to producing sustainable wood panels for decoration. His daily tasks are usually related to software development with .NET and C#, along with the modern web development languages. These web applications are deployed to the Azure cloud using continuous integration and deployment - CI/CD - in a semi-agile development process."
         },
         {
-            "key": "2",
+            "key": "3",
             "title": "PhD Research Scholar",
             "company": "Universidade de Aveiro",
             "location": "Aveiro, Portugal",
             "from": "January 2022",
             "to": "August 2022",
             "status": "Incompleted",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+            "description": "After completing his Master's degree in Mechanical Engineering, Gonçalo enrolled in the PhD program in Mechanical Engineering while working as a research scholar at the university. His role was to understand the plastic products manufacturing process, analyse data from multiple stages of that process using data engineering and machine learning to extract meaning from all those data. Altough he managed to be granted a FCT scolarship to pursue the PhD degree, he lacked the motivation and the resources to move forward with the proposed work plan. Six months after the enrollment in the PhD studies, he decided to leave and start his carrer as a professional."
+        },
+        {
+            "key": "2",
+            "title": "Master's Thesis Curricular Internship",
+            "company": "Primus Vitoria",
+            "location": "Aveiro, Portugal",
+            "from": "March 2021",
+            "to": "September 2021",
+            "status": "Completed",
+            "description": "Gonçalo's Master's thesis was developed in partnership with a ceramics manufacturing company named Primus Vitoria. During this period he developed a data acquisition and processing system with visualization tools to monitor those data from the production line. The system was composed of: a backend server - a Raspberry Pi computer, using Python - which handled all the data consumption, processing and storage; visualization tools - using Grafana dashboards - for monitoring the processes; data acquisition IoT modules - microcontrollers programmed in C/C++ equiped with sensors - which were installed at many points on the production line to get data like the temperature of the ceramic tiles, location and line speed for tracking the tiles along the line, as well as many others."
         },
         {
             "key": "1",
@@ -53,7 +63,7 @@
             "from": "September 2016",
             "to": "December 2021",
             "status": "Completed",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+            "description": "Gonçalo attended an Integrated Master's degree in Mechanical Engineering with a focus in robotics and industrial automation. Both these areas of studies were a major part of the last year of the degree which represents the specialization. During his time at the university he learned about mathematics, physics, thermidynamics, structural analysis, fluids and motion mechanics but the area which sparked a light inside of him was industrial automation and programming. He had his first experience in computer programming when he decided to attend an extra-curricular course on the subject of Object Oriented Programming, in Java. After that experience he had the opportunity of contributing to the foundation of AutoMec - a group of students that create engineering projects to compete in specific competitions (for example: autonomous cars) which required lots of programming skills. The last year of the degree was mainly focused on programming for indutrial automation and robotics. After finishing his degree Gonçalo was awarded the Engenheiro António Pascoal award for best Mechanical Engineering student of the year, ending up with an average grade of 18/20."
         }
     ],
     "contacts": [
